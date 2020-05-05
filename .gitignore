@@ -1,0 +1,8 @@
+sgxc
+*.o
+*.swp
+*.png
+*.out
+*.csv
+*.nstat.txt
+*.tar.gz
